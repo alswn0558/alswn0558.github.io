@@ -1,29 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "markdown이란?"
 date:   2021-12-16 16:52:49 +0900
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+**마크다운이란?**
+-마크다운(Markdown)은 웹상에서 글을 쓰는 모든 사람들을 위한 글쓰기 도구(서식, 포맷, 양식) 입니다.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+-마크다운(Markdown)은 HTML을 몰라도 약간의 노력으로 글자를 HTML형식으로 변환시켜 줍니다.(단 변환도구는 따로 있어야 합니다. 이건 나중에 따로 글을 적겠습니다.)
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+-마크다운(Markdown)은 쉽게 글을 쓸 수 있도록 해 주고, 읽는 사람에게도 쉽게 읽힐 수 있도록 해 주는 간소한 서식(포맷)입니다.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+-마크다운(Markdown)은 꾸밈없는 간소한 문법으로 글쓰기에 집중 할 수 있도록 도와줍니다.

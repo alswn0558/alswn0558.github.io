@@ -1,0 +1,582 @@
+[33mcommit 5750a90a19e01295e813ec7fcc543c95a3b9fe4a[m[33m ([m[1;36mHEAD -> [m[1;32mcd--[m[33m)[m
+Author: minjuyang <alswn0558@kookmin.ac.kr>
+Date:   Thu Dec 16 22:35:29 2021 +0900
+
+    select theme
+
+[33mcommit abfc2ff82a2eeaa25367ca2feec6dd8ad038bb76[m
+Author: minjuyang <alswn0558@kookmin.ac.kr>
+Date:   Thu Dec 16 22:23:57 2021 +0900
+
+    select theme
+
+[33mcommit 84d2571d0f7318d6755c2930a5990131d8881320[m[33m ([m[1;32mmaster[m[33m)[m
+Author: minjuyang <alswn0558@kookmin.ac.kr>
+Date:   Thu Dec 16 22:08:41 2021 +0900
+
+    select Theme
+
+[33mcommit 20c41b4eaea552774d779dc010e1f503f39fe286[m
+Author: minjuyang <alswn0558@kookmin.ac.kr>
+Date:   Thu Dec 16 22:06:14 2021 +0900
+
+    select Theme
+
+[33mcommit acceac331390f70267ca497a874c4a86159ef305[m
+Merge: 829856f 8988ef8
+Author: Song-Zi Vong <zivmsg@gmail.com>
+Date:   Sun May 2 11:13:37 2021 +0800
+
+    Merge pull request #7 from eyssette/patch-1
+    
+    Improving keyboard navigability
+
+[33mcommit 8988ef86fec6de9721eb5ff1b84e8748f53d569a[m
+Author: Eyssette <cedric.eyssette@gmail.com>
+Date:   Fri Apr 30 09:38:28 2021 +0200
+
+    Improving keyboard navigability
+    
+    Add tabindex="1" to main content to improve navigability
+
+[33mcommit 829856fdc4dd5039dea908dca8550ea983f78cea[m
+Merge: 613c069 3e9da69
+Author: Song-Zi Vong <zivmsg@gmail.com>
+Date:   Sat Mar 27 23:36:05 2021 +0800
+
+    Merge pull request #5 from baskraai/master
+    
+    Feature, option to disable the subscribe button
+
+[33mcommit 3e9da69de62d367334e03de99d65e46ee2b6ad32[m
+Author: baskraai <bas@kraai.email>
+Date:   Tue Nov 24 16:59:24 2020 +0100
+
+    Feature, more sensible default -> true
+
+[33mcommit 5a81d8863badbba47959c52fad6996a822c40799[m
+Author: baskraai <bas@kraai.email>
+Date:   Tue Nov 24 16:53:37 2020 +0100
+
+    Feature, more describtive name subscription
+
+[33mcommit a15858e33a2034cba07dcb6002fdacf46503a7bc[m
+Author: Bas Kraai <bas@kraai.email>
+Date:   Tue Nov 24 16:51:12 2020 +0100
+
+    Able to disable subscibe button, added docs for it
+
+[33mcommit 613c0694df177c0246d4879a1fc31986117bd03d[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Sep 22 19:48:28 2020 +0800
+
+    Adjust post pagination
+
+[33mcommit 42b19c854ecae7db1f52a0b5509073cd44b5be2d[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Sep 22 17:34:31 2020 +0800
+
+    Slightly adjust font size and layout
+
+[33mcommit e292e6debe39427a41187622892ff6a6d9359f99[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Sep 22 14:02:11 2020 +0800
+
+    Slightly adjust layout and font size
+
+[33mcommit dada4b6abd62710aaad5e8c4eb1d884aeb955793[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Sep 20 23:43:25 2020 +0800
+
+    Add specs of TOC
+
+[33mcommit d8f9ec7d715fd6c3addf4343bb3952fd775b58ef[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Sep 20 23:24:39 2020 +0800
+
+    Implement another version of TOC
+
+[33mcommit cdc1bb0a0c71c9436b5d3cf85829cc9730d28f96[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Sep 20 20:29:31 2020 +0800
+
+    Implement TOC
+
+[33mcommit 8430f639f48d53595abfde0b380ed2aad958931d[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Sep 15 20:34:47 2020 +0800
+
+    Adjust the font of code
+
+[33mcommit 2850d1504a4c8fe920fc334c4b91b2493d099c70[m[33m ([m[1;33mtag: v4.0.0[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Sep 15 17:27:35 2020 +0800
+
+    Update version to 4.0.0
+
+[33mcommit df34c4c2308d051b7a5a8a4b04dc45d178464ef2[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Sep 15 17:22:11 2020 +0800
+
+    Update screenshots and add some sample posts
+
+[33mcommit a828b8c775aae1e12c2baaa5041a847055680b29[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Mon Sep 14 00:52:16 2020 +0800
+
+    Replace modified_date with last_modified_at since jekyll-seo-tag would consider the later variable
+
+[33mcommit f3acc91527cc207d33475ea8709a9bc01cd8739e[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Sep 13 20:23:49 2020 +0800
+
+    Show the location of the author on the sidebar
+
+[33mcommit 0e2f7467e3a39d633282d3de2f66fbcda5ef395e[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Sep 13 19:35:00 2020 +0800
+
+    Adjust fonts
+
+[33mcommit 0bf9783328c546b63c914e7d1dd4b951b9ffc4e2[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Sep 12 22:38:55 2020 +0800
+
+    Update screenshots
+
+[33mcommit c652fe9c60f69182fee0574f34bd94b03bc6b63b[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Sep 12 22:24:58 2020 +0800
+
+    Adjust sizes
+
+[33mcommit a8151911629d361a908071eb486075f5a3b0546c[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Thu Sep 10 18:47:15 2020 +0800
+
+    Fix the date format
+
+[33mcommit 09c53d9ce36dbbe6906635adcef46e668a2a7cee[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Thu Sep 10 18:25:08 2020 +0800
+
+    Fix the format of showing disqus comment counts
+
+[33mcommit 1a666facc90b22f639dce2236d79e6ed9aae92e8[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Sep 9 21:18:25 2020 +0800
+
+    Consider the site.disqus variable to decide whether import Disqus
+
+[33mcommit 0c7cf038bb543679eb066aaef842a616d6d6e7de[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Sep 9 21:17:13 2020 +0800
+
+    Show Disqus comment counts on home page
+
+[33mcommit 0425895e070a36aac9b2d920e1d395888d43c9c7[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Sep 9 00:44:22 2020 +0800
+
+    Adjust margin  of task list item
+
+[33mcommit 4902fc4991e124518476bb62bc92c765556a73f2[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Thu Sep 3 21:12:52 2020 +0800
+
+    Adjust fonts and spacing
+
+[33mcommit 765fcfa7ea1067f5b91d6ca12bce0c941d6a058a[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Aug 30 22:31:31 2020 +0800
+
+    Fix a bug
+
+[33mcommit 55f57cc0bbb203c1b87c30051d8bf1235f7da908[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Aug 30 22:27:14 2020 +0800
+
+    Fix a bug of lists
+
+[33mcommit baae12312590f38635e38f9a9876f8da4af73e6c[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Aug 30 22:15:19 2020 +0800
+
+    Adjust code format
+
+[33mcommit bdcd7bd2de43c7a73316537b513177960e25ff01[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Aug 30 21:58:24 2020 +0800
+
+    Adjust margins of list items
+
+[33mcommit 86b4a8e470ea4c4542332dabd768874e9efb3fe4[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Aug 28 18:26:10 2020 +0800
+
+    Handle the overflow of the text in the contact list
+
+[33mcommit f88a289f33cbab6cdc9e76d50cef9fe2452ff1d8[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Aug 25 01:28:33 2020 +0800
+
+    Update screenshots
+
+[33mcommit 7d75063df4157489b545bf25b8d278f06c339eaf[m
+Merge: d01fa7a 1371f74
+Author: Shangzhi Huang <ngzhio@gmail.com>
+Date:   Fri Aug 21 10:30:37 2020 +0800
+
+    Merge pull request #2 from oedbro/oedbro-patch-1
+    
+    Fixed spelling error in Readme
+
+[33mcommit 1371f7449ffe673c3964a5918f400c46becf8019[m
+Author: Oskar Edbro <oskar@edbro.se>
+Date:   Thu Aug 20 20:49:00 2020 +0200
+
+    Fixed spelling error in Readme
+    
+    The remote theme plugin uses remote_theme, not remote-theme.
+
+[33mcommit d01fa7abb6b8c5a1c7fa9ae3c804df2f47852623[m[33m ([m[1;33mtag: v3.1.0[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sun Aug 16 20:33:08 2020 +0800
+
+    Update version to 3.1.0
+
+[33mcommit b777b9a342d2a93395bd58d2b113467f9f70b925[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Aug 15 22:54:54 2020 +0800
+
+    Adjust margins
+
+[33mcommit ff86dbc9a7883501ae6357455d8fcdd58c8eb465[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Aug 15 22:27:47 2020 +0800
+
+    Adjust the margin of p in li
+
+[33mcommit 4c3a1537d8edef5be9ed09d15eb63c044ecdd300[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Aug 8 21:40:54 2020 +0800
+
+    Add dependency of kramdown-parser-gfm
+
+[33mcommit e19d94ea203b9730970e8dccb18ee739b05f8faf[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Aug 8 21:24:53 2020 +0800
+
+    Update jekyll to 3.9
+
+[33mcommit 1638d11ea6dcce221cb93119ce4df10861a5aa1a[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Aug 5 20:09:27 2020 +0800
+
+    Set the font-family of h2-6 on post-content to base-font-family
+
+[33mcommit 98147598e96139ae4fc2ce7db454628a9e094526[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Mon Aug 3 21:58:00 2020 +0800
+
+    Modify the color of post link
+
+[33mcommit a6b20be4418122906f882d3e35d4062de1edaef9[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Mon Aug 3 21:50:39 2020 +0800
+
+    Strip HTML of excerpt
+
+[33mcommit f9a0fac2b8e0985498008beec79eac220bed282c[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Mon Jul 20 18:42:26 2020 +0800
+
+    Update docs
+
+[33mcommit 7684e4532d6fcc9d3560f5535c190a6d964d8405[m[33m ([m[1;33mtag: v3.0.0[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 17 17:05:54 2020 +0800
+
+    Update the version to 3.0.0
+
+[33mcommit f10341204f49461dc02abc6698ebfe1ba5c48ed7[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 17 00:42:00 2020 +0800
+
+    Fix color
+
+[33mcommit 061f1145d705ec009b659fbb00b619ab741a0bec[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 17 00:33:10 2020 +0800
+
+    Add post paginate navigation
+
+[33mcommit 1e07ff0358a1c1402f8ff75dfa12026d36abb4cd[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 17 00:32:44 2020 +0800
+
+    Force to use jekyll-paginate
+
+[33mcommit e7b8ce33c76b1cb507965056ad880a48f580a6b0[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 15 23:04:36 2020 +0800
+
+    Modify runtime dependencies to compatible with GitHub Pages
+
+[33mcommit bf761cd482fd916bacd14741b37eff610b9a2733[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 15 22:08:19 2020 +0800
+
+    Delete the image.html template
+
+[33mcommit 17881f372b211aa4e4ace02d824484ac13994ae2[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 15 18:08:34 2020 +0800
+
+    Fix the shadow of dropdown-content and rename some variables
+
+[33mcommit 95f36eaa7b75408be4e43ba942215b628c609f92[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Mon Jul 13 17:54:49 2020 +0800
+
+    Modify the reference to Google Fonts
+
+[33mcommit 02b97d9dddc5cf896f6e2fef3878e0a378c6bb68[m[33m ([m[1;33mtag: v2.0.0[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 22:28:24 2020 +0800
+
+    Update version to 2.0.0
+
+[33mcommit 776f5afb051b1ffbba37b2657b25910b4ccf54b0[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 17:59:24 2020 +0800
+
+    Adjust layout
+
+[33mcommit 7949b1bd686d814be41b531250acd6e1a01ce94b[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 17:26:05 2020 +0800
+
+    Adjust padding
+
+[33mcommit efdfbcbed1c2db270ac9993fd9a7dc6a2ce15de2[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 02:48:03 2020 +0800
+
+    Modify post-link color
+
+[33mcommit 84a5315042d09cee6051c8e3ea99cc95ad0d1190[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 02:41:42 2020 +0800
+
+    Delete redundant code
+
+[33mcommit cebd69df9ccd2abc960a48b8012fa7bd1d68cfb4[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 02:31:50 2020 +0800
+
+    Adjust font size of h2 on post list
+
+[33mcommit e8b409682a14cd302d37808a631d98ceb1c254c2[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 02:25:35 2020 +0800
+
+    Adjust font size of h1
+
+[33mcommit 053c222c9580858ed5c0c2ff98867ae84e05f8cc[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 10 02:19:42 2020 +0800
+
+    Adjust font sizes of headlines
+
+[33mcommit 002b2bc08c07737dbb5e32655d442507d427e61c[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 8 00:30:02 2020 +0800
+
+    Adjust fonts
+
+[33mcommit f2e4c9ad2e9c0ef76b0766e2dec2cdb90e4aadcf[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Jul 7 17:42:20 2020 +0800
+
+    Show categories and tags at the bottom of each post
+
+[33mcommit aa2588732a468ac934be482e98fcebddc42c700c[m[33m ([m[1;33mtag: v1.4.4[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Jul 7 02:11:55 2020 +0800
+
+    Update version to 1.4.4
+
+[33mcommit 86a25f4bebabecde22bd934af36d30f71548d161[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Jul 4 17:55:29 2020 +0800
+
+    Adjust positions
+
+[33mcommit 6f4eeb1ddedcc3c47838aaffa16e46d43a4f9d6a[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 3 21:22:38 2020 +0800
+
+    Adjust border color of midnight skin
+
+[33mcommit ecbe4f31de6f41d758c573373bed373248289048[m[33m ([m[1;33mtag: v1.4.3[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 3 20:11:29 2020 +0800
+
+    Update version to 1.4.3
+
+[33mcommit 3498003e1f5624f72aa646e9e0eb5aba3b3852ce[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 3 16:04:29 2020 +0800
+
+    Fix bug: click the TOP button didn't scroll back to top
+
+[33mcommit 5cc805614708498a27b156be40af3bf57cbd53a9[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Fri Jul 3 00:07:55 2020 +0800
+
+    Fix bug: adjust the grid of site-container
+
+[33mcommit 30fa80fa7a69e6703baf0e949a0835cd8f56a763[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Thu Jul 2 19:43:25 2020 +0800
+
+    Delete unnecessary code
+
+[33mcommit b17efc978b6ccf1be75be97157cbe85fc8acfb26[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Thu Jul 2 00:09:54 2020 +0800
+
+    Update desc
+
+[33mcommit 868256639150ed2174df36829375f5170388d521[m[33m ([m[1;33mtag: v1.4.2[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 22:45:04 2020 +0800
+
+    Update the version to 1.4.2
+
+[33mcommit 73c80874f62ea7ee1e7896b034bb274d3d2f7c0a[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 22:42:43 2020 +0800
+
+    Delete unnecessary log
+
+[33mcommit fd6133812a21975ec7cc39d69819740ea7fdf42c[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 22:39:47 2020 +0800
+
+    Fix bug: click the button twice for the first time to open the sidebar
+
+[33mcommit f37f44525218494047c630eaf9efbc0eff1c3cd3[m[33m ([m[1;33mtag: v1.4.1[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 20:54:54 2020 +0800
+
+    Update the version to 1.4.1
+
+[33mcommit 3c5918bbac9dbd999c0ff03c914d58e958aea6db[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 20:26:53 2020 +0800
+
+    Fix a bug of links to images
+
+[33mcommit 4a1765cface535ebe8ec4f7dd21bb699d4f6ae81[m[33m ([m[1;33mtag: v1.4.0[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 18:29:11 2020 +0800
+
+    Update screenshots
+
+[33mcommit d5f37baac8442a90d86699cd21b0a2c4800b95eb[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 18:19:07 2020 +0800
+
+    Update the version to 1.4.0
+
+[33mcommit 086c8dcd64ff3f95fa6141539026119cbe2249c0[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 17:56:15 2020 +0800
+
+    Update the description of the theme
+
+[33mcommit 65374370e0a95aa626ab9c827f3f218b7f0144fc[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 17:40:46 2020 +0800
+
+    Adjust sidebar
+
+[33mcommit d94cbc773a787156a59acd589885b6785451efc9[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 03:00:12 2020 +0800
+
+    Adjust layout when on small
+
+[33mcommit c8bac6618f5ab5fb38057ebee3c9a1ce305ba255[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 02:41:29 2020 +0800
+
+    Adjust layout when on medium
+
+[33mcommit 5ba72263cfa309d3135baa47c5c990b31d4c4312[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 02:35:03 2020 +0800
+
+    Adjust sidebar and footer
+
+[33mcommit 3ed7361eec63bd89fd141ca34ec248a2a71b0d53[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 01:35:05 2020 +0800
+
+    Adjust page layout
+
+[33mcommit df027935bf2c446cc10a5a3fb20639630ef9e5e4[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 01:25:54 2020 +0800
+
+    Adjust layout
+
+[33mcommit a32be495771810de1e9a60c33fff2edce9c9b1f2[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Wed Jul 1 00:14:50 2020 +0800
+
+    Redesign the site layout
+
+[33mcommit ba499df97ca53f49d140317a0d17aba656355eb4[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Tue Jun 30 13:45:15 2020 +0800
+
+    Make the header sticky
+
+[33mcommit 6feba7bd7113d0dabd4958b7607027e843848478[m[33m ([m[1;33mtag: v1.3.0[m[33m)[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Thu Jun 25 10:49:56 2020 +0800
+
+    Update version
+
+[33mcommit d382479c76e7a3fd1ce3da103b9889ba5933ba1c[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Thu Jun 25 02:11:45 2020 +0800
+
+    Implement the dropdown submenus on the navigation bar
+
+[33mcommit db6725ab4b67c2c95fa978c222fb5444fa2f2878[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Mon Jun 22 22:59:18 2020 +0800
+
+    Modify footer
+
+[33mcommit f1a95d6a737d15f85cf8cfbd7ce31e13bf12d6ff[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Jun 13 23:40:23 2020 +0800
+
+    Delete
+
+[33mcommit 61440f83a51266b33dc54444bb4a3d266f851bed[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Jun 13 21:14:38 2020 +0800
+
+    Fix a bug
+
+[33mcommit a0c3daf76e548a96a0501f31551207f5e691d8d3[m
+Author: ngzhio <ngzhio@gmail.com>
+Date:   Sat Jun 13 20:43:25 2020 +0800
+
+    Set the vertical rhythm of iframe
