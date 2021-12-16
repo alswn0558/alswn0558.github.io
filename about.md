@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Minju Yang(20182175)의 유레카 프로젝트 블로그입니다.
+
+
